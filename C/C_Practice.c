@@ -17,6 +17,9 @@ int main() {
     free(arrayOfStringArrays);
     
     printf("karen is coming here to play tonight	."); 
+    printf("karen is going to ride it happily here tonight!"); 
+    
+    
 
     return 0;
 }
