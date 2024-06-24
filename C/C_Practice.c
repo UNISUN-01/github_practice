@@ -15,6 +15,8 @@ int main() {
     printf("%s\n", arrayOfStringArrays[1][1]);  // Output: ChatGPT
 
     free(arrayOfStringArrays);
+    
+    printf("karen is coming here to play tonight	."); 
 
     return 0;
 }
