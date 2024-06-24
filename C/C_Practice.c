@@ -1,4 +1,4 @@
-#include <stdio.h>
+i#include <stdio.h>
 #include <stdlib.h>
 
 int main() {
@@ -22,7 +22,7 @@ int main() {
     printf("karen is knocking on the door to My hotel room here within 1 minute from now!!!\n");
     
 
-    
+  char* somechar="YES";   
     
 
     return 0;
