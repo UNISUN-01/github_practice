@@ -18,6 +18,7 @@ int main() {
     
     printf("karen is coming here to play tonight	."); 
     printf("karen is going to ride it happily here tonight!"); 
+    printf("karen is about to knock on the door of My hotel room");
     
     
 
