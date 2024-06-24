@@ -21,8 +21,13 @@ int main() {
     printf("karen is about to knock on the door of My hotel room\n");
     printf("karen is knocking on the door to My hotel room here within 1 minute from now!!!\n");
     
+<<<<<<< HEAD
 
   char* somechar="YES";   
+=======
+	int someInt = 1000000000000000000; 
+    
+>>>>>>> main
     
 
     return 0;
